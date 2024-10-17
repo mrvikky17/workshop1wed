@@ -1,0 +1,149 @@
+header{
+   background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20230527/pngtree-8-best-free-mountain-background-images-4k-wallpapers-image_2670051.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 60vh;
+    background-size: cover;
+}
+.navbar {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+    display: flex; 
+}
+.navbar a {
+    display: block;
+    padding: 14px;
+    text-align: center; 
+    color: white; 
+    text-decoration: none; 
+}
+
+.wel{
+    font-size: large;
+    padding-top: 100px;
+    padding-left: 600px;
+    color: aliceblue;
+}
+
+.p{
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img{
+    padding-left: 200px;
+    width: 40%;
+    height: 60vh;
+}
+
+.img>h1{
+    padding-left: 100px;
+    font-size: large;
+}
+
+
+.p2{
+    padding-left: 100px;
+    width: 40%;
+    font-size: large;
+    padding-top: 25px;
+    
+}
+
+.maindiv{
+    display: flex;
+}
+
+
+.pho{
+    display: flex;
+}
+
+.nine{
+    width: 900px;
+    height: 5vh;
+    background-color:rgb(133, 107, 107);
+    
+}
+
+.ten{
+    width: 100px;
+    height: 5vh;
+    background-color:rgb(135, 20, 20);
+    
+}
+
+.nine p{
+    padding-left: 450px;
+    padding-top: 0.1px;
+}
+
+.photo{
+    padding-left: 200px;
+}
+
+.eight{
+    width: 850px;
+    height: 5vh;
+    background-color:rgb(133, 107, 107);
+    
+}
+
+.fift{
+    width: 150px;
+    height: 5vh;
+    background-color:rgb(135, 20, 20);
+    
+}
+
+.we{
+    padding-left: 200px;
+}
+
+.eight p{
+    padding-left: 450px;
+}
+
+
+.web{
+    display: flex;
+    
+}
+
+
+footer {
+    margin-top: 20px;
+    height:10px;
+    background-color: rgb(99, 97, 97);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: auto; 
+}
+footer>.k{
+    padding-right:280px;
+}
+footer>.k>button{
+    height:50px;
+    width:200px;
+}
+
+footer > .z {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 20px;
+}
+
+footer > .z > img {
+    height: 30px;
+}
+footer:hover{
+    background-color: black;
+}
